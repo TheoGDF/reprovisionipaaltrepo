@@ -1,0 +1,26 @@
+{
+  "apps": [
+    {
+      "beta": false,
+      "bundleIdentifier": "com.matchstic.reprovision",
+      "developerName": "Matchstic",
+      "downloadURL": "https://github.com/TheoGDF/ReProvisioniPA/releases/download/0.5.2/ReProvision.ipa",
+      "iconURL": "https://repo.incendo.ws/images/reprovision.png",
+      "localizedDescription": "ReProvsion",
+      "name": "ReProvision",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "An alternative App Store for iOS.",
+      "tintColor": "018084",
+      "version": "0.5.2",
+      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDescription": "New Features\n• Initial release"
+    }
+  ],
+  "identifier": "com.reprovisionipa.source",
+  "name": "ReProvision iPA",
+  "news": [],
+  "userInfo": {}
+}
